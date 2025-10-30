@@ -1,0 +1,19 @@
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column nowrap;
+}
+
+.display {
+    margin: 1em;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 10vh;
+    width: 20%;
+}
+
+button {
+    margin: 1em;
+}
